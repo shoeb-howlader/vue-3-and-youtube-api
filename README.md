@@ -3,7 +3,7 @@
 
 
 ## Project setup
-create a ```.env ``` file in the root directory.and add a variable like this ```VUE_APP_YOUTUBE_API_KEY='your api key'``` . 
+create a ```.env ``` file in the root directory and add a variable like this ```VUE_APP_YOUTUBE_API_KEY='your api key'``` . 
 Make sure your api has youtube data api enabled. 
 ```
 npm install
